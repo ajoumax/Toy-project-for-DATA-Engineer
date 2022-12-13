@@ -16,4 +16,19 @@ values = soup.select("span.value")
 for v in values:
     print(v, ":", v.string)
 </code>
-</pre>
+</pre>  
+
+
+<span class="value">1,309.00</span> : 1,309.00  
+<span class="value">1,309.00</span> : 1,309.00  
+<span class="value">949.93</span> : 949.93  
+<span class="value">1,378.64</span> : 1,378.64  
+<span class="value">187.03</span> : 187.03  
+<span class="value">137.1500</span> : 137.1500  
+<span class="value">1.0557</span> : 1.0557  
+<span class="value">1.2272</span> : 1.2272  
+<span class="value">105.1000</span> : 105.1000  
+<span class="value">73.17</span> : 73.17  
+<span class="value">1567.85</span> : 1567.85  
+<span class="value">1792.3</span> : 1792.3  
+<span class="value">75046.14</span> : 75046.14  
