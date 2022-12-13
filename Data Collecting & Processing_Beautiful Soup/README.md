@@ -1,3 +1,5 @@
+<pre>
+<code>
 from bs4 import BeautifulSoup
 import urllib.request as req
 
@@ -13,4 +15,5 @@ print(value, ":", value.string)
 values = soup.select("span.value")
 for v in values:
     print(v, ":", v.string)
-
+</code>
+</pre>
