@@ -1,6 +1,3 @@
-https://curriculum.cosadama.com/intro-ds/8-1 에서 많이 참고 하였다.  
-
-
 <pre>
 <code>
 from bs4 import BeautifulSoup
