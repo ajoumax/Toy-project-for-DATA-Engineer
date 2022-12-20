@@ -6,7 +6,7 @@
 
 
 -데이터 추출 / 정제 / 적재 / 분석
-:Beautiful Soup, Hadoop, Kafka
+:Beautiful Soup, Hadoop, Kafka, Spark
 
 -데이터 분석 대시보드 개발
   :Tableau
